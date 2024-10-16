@@ -62,29 +62,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Minecraft Client.executor": "Run",
-    "Gradle.Build MysticRealms.executor": "Run",
-    "Gradle.MysticRealms [buildDependents].executor": "Run",
-    "Gradle.MysticRealms [build].executor": "Run",
-    "Gradle.MysticRealms [jar].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Works/MCmodding/MysticRealms/run/saves/Новый мир (4)/generated/mysticrealms",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Minecraft Client.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build MysticRealms.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MysticRealms [buildDependents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MysticRealms [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MysticRealms [jar].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Works/MCmodding/MysticRealms/run/saves/Новый мир (4)/generated/mysticrealms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "C:\\Users\\Maxim\\.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;C:\\Users\\Maxim\\.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Works\MCmodding\MysticRealms\run\saves\Новый мир (4)\generated\mysticrealms" />
