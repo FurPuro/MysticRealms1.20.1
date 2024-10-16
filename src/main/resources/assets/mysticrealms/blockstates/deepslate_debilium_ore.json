@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore"
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored"
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore",
+        "y": 180
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore",
+        "x": 90
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored",
+        "x": 90
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "mysticrealms:block/deepslate_debilium_ore_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

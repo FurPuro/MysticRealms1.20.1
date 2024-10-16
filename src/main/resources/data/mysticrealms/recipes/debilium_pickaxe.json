@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "mysticrealms:debilium"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    " | ",
+    " | "
+  ],
+  "result": {
+    "item": "mysticrealms:debilium_pickaxe"
+  }
+}

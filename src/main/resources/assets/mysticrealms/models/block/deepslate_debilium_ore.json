@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "mysticrealms:block/deepslate_debilium_ore_top",
+    "side": "mysticrealms:block/deepslate_debilium_ore_side"
+  }
+}

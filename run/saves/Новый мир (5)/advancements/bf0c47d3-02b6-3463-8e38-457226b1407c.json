@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-16 19:10:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-16 19:09:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-10-16 19:10:33 +0700",
+      "minecraft:mangrove_swamp": "2024-10-16 19:10:48 +0700",
+      "minecraft:river": "2024-10-16 19:10:53 +0700",
+      "minecraft:forest": "2024-10-16 19:10:51 +0700",
+      "minecraft:windswept_savanna": "2024-10-16 19:10:14 +0700",
+      "minecraft:savanna": "2024-10-16 19:09:41 +0700",
+      "minecraft:plains": "2024-10-16 19:09:30 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-10-16 19:10:02 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
